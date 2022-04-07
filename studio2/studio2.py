@@ -2,7 +2,7 @@
 # Program Filename: studio2.py
 # Author:  Baird Quinn
 # Date: 7 April 2022
-# Description: Studio 2 part 2 assignment
+# Description: Studio 2 part 2 assignment gas and prices
 # Input: Car MPG or MPGe, miles driven in a year, kWh per gallon
 # Output: Gallons/kW used, price
 #######################################################################
